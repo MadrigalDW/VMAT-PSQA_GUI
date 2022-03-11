@@ -45,13 +45,6 @@ def query_mosaiq(mrn, inputDate=''):
     return QAfieldsSelected
 
 if __name__ == '__main__':
-    
-    #mrn = "0005723" # IMRT fields
-    #mrn = "3287540"
-    #mrn = '4859154' # VMAT fields
-    #mrn = '4835965'
-    #mrn = '4859154'
-    #mrn = '1134293'
-    mrn = '4362627'
+    mrn = '1234567' #example MRN
     
     query_mosaiq(mrn)
