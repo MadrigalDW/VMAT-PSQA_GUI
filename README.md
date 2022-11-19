@@ -1,3 +1,3 @@
 # VMAT-PSQA_GUI
-Code for the PSQA GUI built in summer 2021 for UHN
-XAML files to be added
+Python code for the PSQA GUI built in summer 2021 for UHN
+XAML files not included
